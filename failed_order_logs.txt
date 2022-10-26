@@ -1,0 +1,2 @@
+Error at payment service OrderId: 542265458 and items: {“itemId”:”2325654”,”itemName”:”Lays Packet 2 OZ”….}
+Info successfully order placed
